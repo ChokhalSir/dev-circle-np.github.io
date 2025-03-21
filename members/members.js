@@ -264,6 +264,17 @@ const members = [
       twitter: 'prabinparajuli',
       facebook: 'pra.bin.35'
     }
+  },
+  //Nishan Chokhal
+  {
+ fullName: 'Nishan Chokhal',
+    discordUsername: 'chokhal_sir',
+    about: 'Computer programming student.',
+    links: {
+      github: 'chokhal_sir',
+      facebook: 'Nishan Chokhal',
+      linkdin: 'Nishan Chokhal'
+    }
   }
   // add here
 ]
